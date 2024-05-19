@@ -112,8 +112,6 @@ def main_sim():
             if mode == "Walker":
                 if left_list[i] >= 0 and left_list[i] < 80:
                     left_list[i] += v_e + v_w
-                if left_list[i] < 0 and left_list[i] >= -4:
-                    left_list[i] += 3
                 else:
                     left_list[i] += v_w
             
