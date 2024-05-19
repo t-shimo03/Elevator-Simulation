@@ -1,4 +1,4 @@
-# エレベーターシミュレーションの説明  
+# エレベーターシミュレーターの説明  
   
 ## ダウンロード  
 git clone https://github.com/t-shimo03/Elevator-Simulation.git  
