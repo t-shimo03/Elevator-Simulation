@@ -8,7 +8,7 @@ import numpy as np
 
 sim_app = tk.Tk()
 sim_app.geometry("500x300")
-sim_app.title("elevator sim")
+sim_app.title("Escalator-Simulation")
 sim_step = 0
 
 var_scale = tk.IntVar(value=0)
