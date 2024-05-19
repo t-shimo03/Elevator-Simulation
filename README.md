@@ -1,3 +1,4 @@
+![result_Walker_40](https://github.com/t-shimo03/Escalator-Simulation/assets/134695140/8e5da356-e0cb-488a-afde-868e42543df5)
 # エスカレーターシミュレーターの説明  
   
 ## ダウンロード  
